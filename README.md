@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Sharmin AKter <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Sharmin Akter <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 
 
